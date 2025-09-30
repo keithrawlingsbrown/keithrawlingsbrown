@@ -1,47 +1,54 @@
-# 👋🏾 What's Up, I'm Keith
+# Hi there 👋  
 
-I’m a DevSecOps learner and career switcher from South Philadelphia — built from grit, real-world experience, and a deep commitment to growth.
-
-Before tech, I spent 8 years in the trucking and logistics industry as a CDL-A driver, entrepreneur, and business owner. I’ve navigated long highways, tight deadlines, and real-life obstacles — including mental health, incarceration and starting over from scratch. Now, I’m using that same grit to navigate the world of tech.
-
----
-
-## 🚀 What I’m Learning:
-- 🔐 DevSecOps principles & mindset
-- ☁️ Cloud (AWS, Linux, infrastructure)
-- 🔁 CI/CD pipelines (GitHub Actions, Jenkins)
-- ⚙️ Infrastructure as Code (Terraform, YAML)
-- 🛠️ Security tools & automation
+I’m **Keith R Brown Jr**, an aspiring IT professional currently completing my **CompTIA A+ at Per Scholas**.  
+I’m passionate about building strong foundations in **Networking, Linux, and Cloud technologies**, while also exploring how **AI can be a personal assistant + lab helper** to accelerate my learning.  
 
 ---
 
-## 🎯 My Mission:
-To document my journey in public, share what I learn, and create a blueprint for people from non-traditional paths — especially those who’ve been counted out. If you're trying to get into tech without a degree, without connections, or after setbacks — you're not alone.
+## 🔹 What I’m Working On  
+- Earning my **CompTIA A+ certification**  
+- Hands-on practice with **Linux, Networking, and Cloud basics**  
+- Using **AI tools** to enhance labs, troubleshooting, and study efficiency  
 
 ---
 
-## 🔗 Let’s Connect:
-- 🌐 [LinkedIn – Keith Rawlings Brown][(https://www.linkedin.com/in/keithrawlingsbrown/)]
-- 💻 [My Projects & Repos](https://github.com/keithrawlingsbrown)
-- 📬 Open to collabs, mentorship, and opportunities to grow
+## 🎯 Career Goals  
+- Start as a **Help Desk Specialist** to gain real-world IT experience  
+- Grow into advanced roles in **Cloud, Security, and DevOps**  
+- Build a long-term foundation for innovation in IT with AI-powered efficiency  
 
 ---
 
-**“This isn’t just a career change. This is a mission.”**
+## 📌 Pinned Roadmap Repositories  
 
-Let’s build systems — and break cycles. 💻⚡
+Here’s how I’m organizing my learning and projects:  
 
-<!--
-**keithrawlingsbrown/keithrawlingsbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[`help-desk-labs`](#)**  
+  🔹 Ticket simulations, troubleshooting exercises, and documentation practice  
+  🔹 Showcase of problem-solving and communication skills  
 
-Here are some ideas to get you started:
+- **[`linux-labs`](#)**  
+  🔹 Hands-on practice with Linux commands, scripts, and system tasks  
+  🔹 Includes “real ones mode” explanations + exam prep notes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[`networking-labs`](#)**  
+  🔹 Networking fundamentals (IP addressing, subnets, routing basics)  
+  🔹 Lab configs, diagrams, and troubleshooting exercises  
+
+- **[`cloud-basics`](#)**  
+  🔹 Experiments with AWS/Azure/GCP free tiers  
+  🔹 Beginner projects: virtual machines, storage buckets, permissions  
+
+- **[`ai-lab-helper`](#)**  
+  🔹 Using AI (like ChatGPT/Copilot) to assist with labs & study notes  
+  🔹 Example prompts, workflow automation, and AI-powered study tools  
+
+---
+
+## 📫 Let’s Connect  
+- **LinkedIn:** https://www.linkedin.com/in/keithrawlingsbrown/ 
+- **Email:** keithrawlings24@gmail.com  
+
+---
+
+✨ Thanks for stopping by — check back as I grow my labs and projects here!  
