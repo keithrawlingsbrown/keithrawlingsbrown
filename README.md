@@ -1,48 +1,22 @@
-# Hi there 👋  
+# Infrastructure Lab Journey 🚀
 
-I’m **Keith R Brown Jr**, an aspiring IT professional currently completing my **CompTIA A+ at Per Scholas**.  
-I’m passionate about building strong foundations in **Networking, Linux, and Cloud technologies**, while also exploring how **AI can be a personal assistant + lab helper** to accelerate my learning.  
+Welcome to my hands-on learning lab — where I’m documenting my progress from **Data Center Technician trainee → DevSecOps Engineer**.
 
----
+### Current Focus
+- Linux system administration fundamentals  
+- Network setup and troubleshooting (DNS, DHCP, VPN)  
+- Automation experiments using Bash  
+- Monitoring and uptime scripts  
 
-## 🔹 What I’m Working On  
-- Earning my **CompTIA A+ certification**  
-- Hands-on practice with **Linux, Networking, and Cloud basics**  
-- Using **AI tools** to enhance labs, troubleshooting, and study efficiency  
-
----
-
-## 🎯 Career Goals  
-- Start as a **Help Desk Specialist** to gain real-world IT experience  
-- Grow into advanced roles in **Cloud, Security, and DevOps**  
-- Build a long-term foundation for innovation in IT with AI-powered efficiency  
+### Learning Goals
+- Build and secure a simulated infrastructure environment  
+- Apply DevOps principles (CI/CD basics, documentation, automation)  
+- Evolve toward Purple Team concepts (security + operations synergy)
 
 ---
 
-## 📌 Pinned Roadmap Repositories  
-
-Here’s how I’m organizing my learning and projects:  
-
-- **[`help-desk-labs`](#)**  
-  🔹 Ticket simulations, troubleshooting exercises, and documentation practice  
-  🔹 Showcase of problem-solving and communication skills  
-
-- **[`linux-labs`](#)**  
-  🔹 Hands-on practice with Linux commands, scripts, and system tasks  
-  🔹 Includes “real ones mode” explanations + exam prep notes  
-
-- **[`networking-labs`](#)**  
-  🔹 Networking fundamentals (IP addressing, subnets, routing basics)  
-  🔹 Lab configs, diagrams, and troubleshooting exercises  
-
-- **[`cloud-basics`](#)**  
-  🔹 Experiments with AWS/Azure/GCP free tiers  
-  🔹 Beginner projects: virtual machines, storage buckets, permissions  
-
-- **[`ai-lab-helper`](#)**  
-  🔹 Using AI (like ChatGPT/Copilot) to assist with labs & study notes  
-  🔹 Example prompts, workflow automation, and AI-powered study tools  
-
+📡 *"Infrastructure is the foundation — security is the mission."*
+ 
 ---
 
 ## 📫 Let’s Connect  
