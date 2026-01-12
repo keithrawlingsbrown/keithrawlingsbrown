@@ -105,15 +105,6 @@
 
 ---
 
-## 💼 Philadelphia Data Center Job Search
-
-**Target Companies:**
-- **Iron Mountain (Bensalem)** - ITAM focus ⭐ Top Match
-- **Equinix PH1 / Netrality** (Philadelphia)
-- **TierPoint** (Navy Yard / Bethlehem)
-- **Amazon AWS** (Berwick) - Hyperscale
-- **CoreWeave** (Lancaster) - AI Infrastructure
-
 **Value Proposition:**
 - 6+ years mission-critical operations (0 safety incidents over 500+ inspections)
 - $200K+ IT Asset Management experience (99% inventory accuracy)
