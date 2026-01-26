@@ -11,15 +11,15 @@
 ### ✅ Completed Labs (January 2026)
 - **LAB 0.5:** Terminal & VM Basics (100%) - 2 hours - VirtualBox, Linux fundamentals
 - **Network Project 1:** Enterprise Network Design (100%) - 3h15m - 6 VLANs, 200 users, hierarchical architecture
-
+- **Network Project 2:** Core Network Build - VLAN configuration, Cisco IOS commands
+- 
 ### ⏳ In Progress
 - **LAB 1.1:** Linux Administration (60%) - User management ✅, Services ✅, SSH hardening ⏳
-- **Network Project 2:** Core Network Build - VLAN configuration, Cisco IOS commands (starting Jan 13)
 
 ### 🎯 Next Up
 - LAB 1.1 completion (SSH, Firewall, Monitoring)
 - Network Projects 2-10 (Routing, Security, Automation)
-- CCNA preparation (Q1 2026)
+- Network+ (Q2 2026)
 
 ---
 
